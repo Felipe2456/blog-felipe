@@ -1,0 +1,56 @@
+body{
+    background-color: cadetblue;
+    font-size: 120%;
+    font-family:Georgia, 'Times New Roman', Times, serif , serif
+}
+.sla{
+    background-color:aliceblue ;
+    width: 1000px;
+    margin: auto;
+    border-radius: 20px;
+}
+header .brand{
+    color: #666;
+    font-family: [Arial, Helvetica, sans-serif];
+    font-size:  200%;
+    padding: 40px;
+}
+header .brand span{
+    font-family: [Arial, Helvetica, sans-serif];
+    font-size:  40%;
+    padding: 20px;
+}
+
+.image{
+    height: 400px;
+background:#68bba1 url(img/illustration.jpg)center no-repeat
+}
+
+main{
+   float: left; 
+}
+
+content{
+    overflow: hidden;
+    display: block;
+    padding: 50px ;
+}
+
+article{
+    margin-bottom:60px ;
+}
+
+article h2{
+    margin-bottom: 0;
+    font-size: 170%;
+    color: #333;
+    padding: 0;
+}
+
+a{
+    color: #333;
+}
+a:hover{
+    color: #0062ff;
+}
+
